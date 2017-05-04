@@ -35,8 +35,7 @@
     "server"
   ],
   "bin": {
-    "cloudcmd": "legacy/bin/cloudcmd.js",
-    "cloudcmd+": "bin/cloudcmd.js"
+    "cloudcmd": "bin/cloudcmd.js"
   },
   "config": {
     "dirs": "bin server test webpack.config.js"
